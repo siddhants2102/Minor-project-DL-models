@@ -56,7 +56,7 @@ To run this project locally on your machine, follow these steps:
 **1. Clone the repository**
 ```bash
 git clone https://github.com/siddhants2102/Minor-project-DL-models.git
-cd smart-healthcare-system
+cd Minor-project-DL-models
 ```
 
 **2. Create a virtual environment (Recommended)**
@@ -72,6 +72,7 @@ pip install -r requirements.txt
 
 **4. Launch the Web Application**
 ```bash
+cd Chest-Xray
 streamlit run app.py
 ```
 The application will open in your default web browser at http://localhost:8501.
